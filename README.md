@@ -12,3 +12,5 @@ This app is up and running on local Streamlit
 
 
 ##  Object Detection Demo
+
+https://github.com/Nouraksaqer/JAAL/blob/main/StreamlitDemo.mp4
